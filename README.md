@@ -4,6 +4,6 @@ This project delves into the fascinating world of Amazon Prime Video content usi
 
 Key Objectives:
 
-Content Exploration: Uncover the composition of Prime Video's library, including distribution across genres, release years, average ratings, and runtime trends. Identify the content categories that dominate the platform and how they've evolved over time.
+1.Content Exploration: Uncover the composition of Prime Video's library, including distribution across genres, release years, average ratings, and runtime trends. Identify the content categories that dominate the platform and how they've evolved over time.
 
-Interactive Visualization: Power BI's interactive capabilities are harnessed to create insightful dashboards. Users can explore the data through slicers, filters, and drill-downs, gaining a deeper understanding of Prime Video's content landscape.
+2.Interactive Visualization: Power BI's interactive capabilities are harnessed to create insightful dashboards. Users can explore the data through slicers, filters, and drill-downs, gaining a deeper understanding of Prime Video's content landscape.
